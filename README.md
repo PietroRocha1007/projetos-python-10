@@ -46,4 +46,10 @@ Este repositório está em constante evolução, acompanhando meu aprendizado em
 
 ---
 
+## 🚀 Próximos passos
+
+- Desenvolver novos projetos em Python.
+- Aprimorar meus conhecimentos em lógica de programação.
+- Aprender orientação a objetos.
+
 Desenvolvido durante minha jornada de aprendizado em Python.
