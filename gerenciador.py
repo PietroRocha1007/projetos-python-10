@@ -129,3 +129,6 @@ while True:
         break
     else:
         print("! Opção inválida. Escolha uma opção de 1 a 6.")
+
+
+# Aprendendo Git na prática
