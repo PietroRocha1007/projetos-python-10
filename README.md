@@ -1,6 +1,6 @@
 # 🐍 Projetos Python
 
-Este repositório reúne projetos desenvolvidos durante minha jornada de aprendizado em Python, com o objetivo de praticar lógica de programação, estruturas de dados, funções e manipulação de arquivos.
+Este repositório apresenta projetos práticos que demonstram minha evolução no desenvolvimento com Python.
 
 ## 📚 Projetos
 
